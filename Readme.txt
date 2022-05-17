@@ -1,0 +1,1 @@
+Template para sitio de camiones
